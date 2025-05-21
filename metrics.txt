@@ -1,0 +1,1 @@
+[50 / 50]  ROUGE: F1 = 0.1906, Precision = 0.1544, Recall = 0.2581
